@@ -102,3 +102,4 @@ t.onscreenclick(paper, 3)
 
 t.mainloop()
 
+# 연습입니다
